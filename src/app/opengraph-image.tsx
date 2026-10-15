@@ -27,7 +27,7 @@ export default function OpengraphImage() {
               width: 44,
               height: 44,
               borderRadius: 12,
-              backgroundColor: "#b6f34a",
+              backgroundColor: "#f59e0b",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
@@ -47,7 +47,7 @@ export default function OpengraphImage() {
             }}
           >
             <span>DevOps</span>
-            <span style={{ color: "#b6f34a" }}>Forge</span>
+            <span style={{ color: "#f59e0b" }}>Forge</span>
           </div>
         </div>
 
@@ -64,7 +64,7 @@ export default function OpengraphImage() {
             }}
           >
             <span>Stop Memorizing.</span>
-            <span style={{ color: "#b6f34a" }}>Start Solving.</span>
+            <span style={{ color: "#f59e0b" }}>Start Solving.</span>
           </div>
           <div style={{ color: "#93a1b8", fontSize: 30, maxWidth: 900 }}>
             Practical resources. Clear learning paths. Real engineering problems.
@@ -81,7 +81,7 @@ export default function OpengraphImage() {
           }}
         >
           <span>Practical learning for software engineers.</span>
-          <span style={{ color: "#b6f34a" }}>Free to explore</span>
+          <span style={{ color: "#f59e0b" }}>Free to explore</span>
         </div>
       </div>
     ),
